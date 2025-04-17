@@ -7,10 +7,6 @@ Custom PDF Assistant is a tool that leverages the open-source Google PaLM LLM to
 - Utilizes FAISS vector databases for efficient query retrieval.
 - Easy to deploy and run locally.
 
-## Live Demo
-
-You can access the live demo of the application [here](https://custom-pdf-assistant.streamlit.app/).
-
 ![Custom PDF Assistant](imgs/upload.png)
 
 ## Installation
