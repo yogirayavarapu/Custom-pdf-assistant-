@@ -5,9 +5,7 @@ Custom PDF Assistant is a tool that leverages the open-source Google PaLM LLM to
 
 - Converts PDF content into embeddings using Google PaLM LLM.
 - Utilizes FAISS vector databases for efficient query retrieval.
-- Easy to deploy and run locally.
-
-![Custom PDF Assistant](imgs/upload.png)
+- Easy to deploy and run locally. 
 
 ## Installation
 
